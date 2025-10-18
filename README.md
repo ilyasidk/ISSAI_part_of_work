@@ -8,23 +8,25 @@ This project represents a linear actuator control system using Arduino and PID c
 
 ## Development Timeline
 
-### Stage 1: Initial Construction
-![Initial Construction](constr_1.jfif)
-- Creating basic robot structure
-- Planning actuator placement
-- Defining main system components
+### Stage 1: Initial Construction Without Motors
+![Initial Construction Without Motors](constr_without_motors.jfif)
+- Creating basic robot framework without motors
+- Testing mechanical structure and connections
+- Planning actuator placement and system design
+- Validating the concept before adding motors
 
-### Stage 2: Construction Without Motors
-![Construction Without Motors](constr_without_motors.jfif)
-- Testing mechanical components
-- Checking component compatibility
-- Debugging mechanical connections
-
-### Stage 3: Working with Motors
+### Stage 2: Adding Motors to the Framework
 ![Working with Motors](working_with_motors.jfif)
-- Connecting and testing motors
-- Configuring motor drivers
+- Integrating motors into the existing framework
+- Connecting and testing motor drivers
 - First actuator movement tests
+- Validating motor integration
+
+### Stage 3: Complete Construction
+![Complete Construction](constr_1.jfif)
+- Final assembly with all components
+- Complete system integration
+- Final testing and validation
 
 ### Stage 4: Robot Parts Assembly
 ![Robot Part 1](part_of_robot1.jfif)
