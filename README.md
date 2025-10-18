@@ -37,9 +37,10 @@ This project represents a linear actuator control system using Arduino and PID c
 - Testing component interactions
 
 ### Stage 5: Final Demonstration
-![Final Demonstration](76db0df1-c8bc-41dc-8df3-0bb8433a01b3.jfif)
 
-**🎥 Watch the final demonstration video:** [https://www.youtube.com/watch?v=iIaVtzwRE7Q](https://www.youtube.com/watch?v=iIaVtzwRE7Q)
+**🎥 Final Demonstration Video:**
+
+[![Final Demonstration](https://img.youtube.com/vi/iIaVtzwRE7Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=iIaVtzwRE7Q)
 
 - Fully assembled system
 - Testing all functions
